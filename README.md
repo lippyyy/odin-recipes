@@ -1,1 +1,2 @@
 # odin-recipes
+The website will make use of all the HTML knowledge I have aquired up to now. It will contain a home page (index) and 3 other pages which will contain the recipes of 3 dishes of my choice. I will make use of images, link, lists and more. 
