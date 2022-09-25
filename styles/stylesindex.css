@@ -2,28 +2,3 @@ h1 {
     font-family: 'Courier New', 'Lucidida Console', 'Monacoa', monospace;
     font-size: 100px;
 }
-
-
-.image-container {
-    height: auto;
-    width: 785px;
-    border: 20px solid beige;
-}
-
-#btncookie, #btnpie, #btnspag {
-    font-family:'Courier New', 'Lucidida Console', 'Monacoa', monospace ;
-    background-color: tomato;
-    border: 2px solid black;
-    color: black;
-    padding: 14px 28px;
-    font-size: 16px;
-    font-weight: bold;
-}
-
-#btnpie {
-    background-color: green;
-}
-
-#btnspag {
-    background-color: whitesmoke;
-}
