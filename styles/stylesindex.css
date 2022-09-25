@@ -2,6 +2,7 @@ h1,
 body {
     font-family: 'Courier New', 'Lucidida Console', 'Monacoa', monospace;
     font-size: 100px;
+    color: blue;
 }
 
 body {
@@ -11,4 +12,16 @@ body {
 .indeximage {
     height: auto;
     width: 500px;
+}
+
+#cookielink {
+    color: red;
+}
+
+#pielink {
+    color: orange;
+}
+
+#spaglink {
+    color: green;
 }
